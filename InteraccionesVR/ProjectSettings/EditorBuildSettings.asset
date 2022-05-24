@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 4d805c88e917e224da5f113c5f15e6a1
+  - enabled: 1
     path: Assets/Scenes/ChemestryLab.unity
     guid: 203cd07853373524ab56edfa7373e66b
   m_configObjects:
